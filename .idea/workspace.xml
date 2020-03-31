@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd60d08b-3ecf-42ca-88f1-2f0ce42ced41" name="Default Changelist" comment="" />
+    <list default="true" id="cd60d08b-3ecf-42ca-88f1-2f0ce42ced41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo/Account1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo/Account2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo/Account3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +36,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1YclYzLFMQSmPv5lfvyic6NMBqX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
